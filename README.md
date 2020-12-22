@@ -1,3 +1,3 @@
 # DiscordBotApplication
-
-Merhaba Dostlarım Ben KOLEJ408 SCRATCH Bu Altyapıyı Hazırlarken Çok Uğraştım Emeğe Saygı Olarak Videoyu Beğenin.
+Merhaba dostlarım ben Xawin.
+Alt yapıyı hazırlanken çok zorlandım emeğe saygı olarak videoyu beğenin.
